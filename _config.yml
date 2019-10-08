@@ -1,8 +1,8 @@
 # Site settings
-title: Grayscale
+title: A Little Fog for a Large Turn
 email: ee14btech11011@iith.ac.in
 url: https://code-Assasin.github.io/website_little_fog
-description: "A Little Fog for a Large Turn: A study of Task Perceptual Adversarial Examples in Autonomous Driving specifically Steering Angle Predictors"
+description: "A study of Task Perceptual Adversarial Examples in Autonomous Driving specifically Steering Angle Predictors"
 
 # Color settings (hex-codes without the leading hash-tag)
 color:
