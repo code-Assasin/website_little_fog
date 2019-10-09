@@ -260,12 +260,19 @@ a:focus {
     height: auto;
     padding: 50px 0;
     color: #fff;
-    background: url("img/downloads-bg.png") no-repeat center center scroll;
+    background: url("img/downloads-bg.png") repeat center center scroll;
     background-color: {{ site.color.primary-dark }};
-    -webkit-background-size: cover;
+ /*   -webkit-background-size: cover;
+    -moz-background-size: cover;
+    background-size: cover;
+    -o-background-size: cover;*/
+     -webkit-background-size: cover;
     -moz-background-size: cover;
     background-size: cover;
     -o-background-size: cover;
+    -moz-box-shadow: 1px 2px 3px rgba(0,0,0,.5);
+    -webkit-box-shadow: 1px 2px 3px rgba(0,0,0,.5);
+    box-shadow: 1px 2px 3px rgba(0,0,0,.5);
 }
 
 
