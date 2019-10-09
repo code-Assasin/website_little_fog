@@ -3,7 +3,7 @@ title: A Little Fog for a Large Turn
 email1: ee14btech11011@iith.ac.in
 email2: vineethnb@iith.ac.in
 url: https://code-Assasin.github.io/website_little_fog
-description: "A study of Task Perceptual Adversarial Examples in Autonomous Driving specifically Steering Angle Predictors"
+description: "A study of Task Perceptual Adversarial Examples in Autonomous Driving "
 
 # Color settings (hex-codes without the leading hash-tag)
 color:
@@ -17,8 +17,6 @@ footer: Your Website
 
 # Social networks usernames (many more available: google-plus, flickr, dribbble, pinterest, instagram, tumblr, linkedin, etc.)
 social:
-  - title: twitter
-    url: https://twitter.com/harshitha_25
   - title: github
     url: https://github.com/code-Assasin/website_little_fog
 
