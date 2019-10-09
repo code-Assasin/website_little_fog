@@ -260,7 +260,7 @@ a:focus {
     height: auto;
     padding: 50px 0;
     color: #fff;
-    background: url("img/downloads-bg.jpg") repeat center center scroll;
+    background: url("img/downloads-bg.jpg") no-repeat;
     background-color: {{ site.color.primary-dark }};
     -webkit-background-size: cover;
     -moz-background-size: cover;
