@@ -20,9 +20,9 @@ color:
 footer: Your Website
 
 # Social networks usernames (many more available: google-plus, flickr, dribbble, pinterest, instagram, tumblr, linkedin, etc.)
-social:
-  - title: github
-    url: https://github.com/code-Assasin/website_little_fog
+# social:
+#   - title: github
+#     url: https://github.com/code-Assasin/A_Little_fog_for_a_Large_Turn
 
 # Build settings
 markdown: kramdown
