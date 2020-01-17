@@ -1,0 +1,8 @@
+@misc{machiraju2020little,
+    title={A Little Fog for a Large Turn},
+    author={Harshitha Machiraju and Vineeth N Balasubramanian},
+    year={2020},
+    eprint={2001.05873},
+    archivePrefix={arXiv},
+    primaryClass={cs.LG}
+}
